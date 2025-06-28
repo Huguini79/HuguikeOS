@@ -1,0 +1,1 @@
+PRINT "HuguikeOS ES UNA VERSIÓN MODIFICADA de un sistema operativo educativo llamado MikeOS(OBVIAMENTE LEGALMENTE Y CON LICENCIA COMPATIBLE CON SU DISTRIBUCION, MODIFICACION ETC...), y su creador, Huguini, tiene otro sistema operativo que hizo el solo = github.com/Huguini79/HuguiniOS"
